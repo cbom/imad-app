@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 18 Aug 2017 08:45:05 at http://www.bitexl.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.bitexl.com -O1 "C:\Users\Shivam Bhardwaj\Desktop\webprojects\Bitexl" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:46:19	Error: 	"Not Found" (404) at link www.bitexl.com/POST (from www.bitexl.com/)
+08:46:19	Error: 	"Not Found" (404) at link www.bitexl.com/"//img1.wsimg.com/isteam/ip/01d55b24-bf51-4ada-84c7-840f4858276c/072604cf-db42-410e-9850-a175804fac44.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:50,h:50,cg:true,m/cr=w:50,h:50,ax:c,ay:c" (from www.bitexl.com/sponsors)
+08:46:19	Error: 	"Not Found" (404) at link www.bitexl.com/edge/ (from www.bitexl.com/gallery)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 14 seconds : 18 links scanned, 14 files written (3873305 bytes overall) [1544318 bytes received at 20869 bytes/sec], 3005039 bytes transferred using HTTP compression in 12 files, ratio 22%, 2.2 requests per connection
+(3 errors, 0 warnings, 0 messages)
